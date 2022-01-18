@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Eli
-- 👀 I’m interested in Kubernetes
+- 👀 I’m interested in Kubernetes, Docker, Terraform, bash
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on DevOps teams
 
